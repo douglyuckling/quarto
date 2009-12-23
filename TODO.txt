@@ -1,0 +1,21 @@
+Quarto todo:
+
+Use Boost libraries
+	Boost Array
+	dynamic bitset for game logic
+	BOOST_FOREACH to loop over objects
+	see if lambda functions would be useful
+	Quaternions?
+	Min/max?
+	Optional
+	Smart pointers
+	Swap
+	Test
+	Threading
+	Tuples?
+	value_initialized?
+
+
+Use SDL
+
+Optimize with Valgrind
